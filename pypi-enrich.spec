@@ -4,7 +4,7 @@
 #
 Name     : pypi-enrich
 Version  : 1.2.6
-Release  : 1
+Release  : 2
 URL      : https://files.pythonhosted.org/packages/47/2b/b453d52a5cd1409d859d67c6a530971095406aedc0c0589c1c6a5212f506/enrich-1.2.6.tar.gz
 Source0  : https://files.pythonhosted.org/packages/47/2b/b453d52a5cd1409d859d67c6a530971095406aedc0c0589c1c6a5212f506/enrich-1.2.6.tar.gz
 Summary  : enrich
