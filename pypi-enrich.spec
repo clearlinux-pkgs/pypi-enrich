@@ -13,7 +13,7 @@ License  : MIT
 Requires: pypi-enrich-python = %{version}-%{release}
 Requires: pypi-enrich-python3 = %{version}-%{release}
 BuildRequires : buildreq-distutils3
-BuildRequires : pluggy
+BuildRequires : pypi(pluggy)
 BuildRequires : py-python
 BuildRequires : pypi(pip)
 BuildRequires : pypi(rich)
@@ -23,7 +23,7 @@ BuildRequires : pypi(setuptools_scm_git_archive)
 BuildRequires : pypi(wheel)
 BuildRequires : pytest
 BuildRequires : tox
-BuildRequires : virtualenv
+BuildRequires : pypi(virtualenv)
 
 %description
 # enrich
